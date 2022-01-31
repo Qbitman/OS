@@ -120,6 +120,6 @@ not allowed, it keeps on waiting.
 
 ---
 [twitter]: https://twitter.com/ChaitanyaUge
-[instagram]: https://www.instagram.com/chaitanya-uge/
+[instagram]: https://www.instagram.com/chaitanya_uge/
 [linkedin]: https://www.linkedin.com/in/chaitanyauge/
 [medium]: https://medium.com/@chaitanya1/
